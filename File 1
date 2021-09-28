@@ -1,0 +1,65 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+ <meta charset ="utf-8">
+ <meta name="description" content="MD/MS Colleges ranked by choice by residents">
+  <title> Project KamurRemoval</title>
+</head>
+<body style= "background-color:black;">
+  <header style="color:orange;" >
+    <h1><b><i>Welcome to Alpha build 1.0</i></b></h1>
+      <br/><br/><br/>
+  </header>
+      <main>
+        <section style= "color:lightblue;font-size:30px; "><p1>Did you ever feel like you were lost when you were looking to decide a residency program for PG in Assam?<p1/></section>
+        <section>
+          <center>
+
+          <image src="https://i.imgflip.com/10wz25.jpg" alt=Oops!Aconfusedfacelogowashere>
+          </center>
+          </section>
+        <section style="color:red; font-size:25px;">
+
+  <p>FEAR NOT.</p>
+  <p>You, my friend, aren't alone.</p>
+  <a href="https://www.scutwork.com/" target=_blank> Click here for what the Americans use! </a>
+  <p style="color:white;"> My objective is to ultimately build something similar to this , for our desi audience. But where did I learn the coding for this you ask? </p>
+  <p style="color:purple"> Check out this great video that helped me do this in less than 12 hours</p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/pQN-pnXPaVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <a href="https://twitter.com/mike_dane" target=_blank><h3 style="color:red;">Maybe even follow the dude who taught me on Twitter eh?</h3></a>
+        </section>
+        <section style="color:blue; font-size:20px;">
+          <p> This is the general style of input data I would want on the website</p>
+          <form>
+            <input type="text" value="Enter your user name"/>
+          <input type="password" value="Enter your password"/>
+          <p>What level of education are you at currently?</p>
+          <input type="radio" name="Q" value="MBBS"/> MBBS
+          <input type="radio" name="Q" value="Junior Resident"/>Junior Resident
+          <Input type="radio" name="Q" value="Post PG"/>Post PG
+          <p>Enter your experience here</p>
+          <textarea>
+          </textarea>
+          </form>
+        </section>
+
+        <section style="color:white;font-size:20px;">
+          <p>Anyway, this is a list of things I need to work on</p>
+          <ul>
+            <li>CSS</li>
+            <li>Interactive frontend</li>
+            <li>Database functionality for reviews</li>
+          </ul>
+        </section>
+       </main>
+       <footer style="color:red;">
+         <h2>In the meantime, here is a cute cat picture for you to see<h2>
+           <center>
+           <div class="tenor-gif-embed" data-postid="15917800" data-share-method="host" data-aspect-ratio="0.8" data-width="25%"><a href="https://tenor.com/view/cute-kitty-best-kitty-alex-cute-pp-kitty-omg-yay-cute-kitty-munchkin-kitten-gif-15917800">Cute Kitty Best Kitty GIF</a>from <a href="https://tenor.com/search/cute+kitty-gifs">Cute Kitty GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+           </center>
+
+
+<!--
+  Hey is this comment tag even working? Anyway , I think I will start on CSS video now, I don't think there is much more left for me to learn here. Also I guess you can get most tags from the internet anyway -->
+</body>
+</html>
